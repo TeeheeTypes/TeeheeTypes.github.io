@@ -33,4 +33,4 @@ Here is a list of the keyboards I own and had owned.
 
 ### Contact me
 
-[email@domain.com]#(mailto:email@domain.com)
+[email@domain.com](Teeheetypes@gmail.com)
