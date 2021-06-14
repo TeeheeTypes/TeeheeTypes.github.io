@@ -15,7 +15,7 @@ Here is a list of the keyboards I own and had owned.
 
 1. KBD67 Rev 2.0 MKii in Grey Aluminum (Sold)
 2. KBD67 Rev 2.0 MKii in Polycarbonate (Sold)
-3. KBDFans D65 in E-White coating (Sold)
+3. KBDFans D65 in E-White coating (In Collection)
 4. Ai03 Vega in Navy (Upcoming)
 5. Tskuyomi 65 in Navy (Upcoming)
 6. Dalco 959 Mini in Silver (Upcoming)
