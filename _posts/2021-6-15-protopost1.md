@@ -7,7 +7,7 @@ title: KBD67 Rev 2.0 MKii Review!
 
 The KBD67 Rev 2.0 MKii is a custom mechanical keyboard designed by Ai03 in collaboration with KBDFans. KBDFans is known by the community as the vendor that helps to provide entry level mechanical keyboards. Starting at $235 the KBD67 Rev 2.0 MKii pricing may be slightly higher than than most entry custom mechanical keyboards. However, the quality provided will offer a much better typing experience than most entry level mechanical keyboards.
 
-The keyboard features a 65% layout, top mount, soldered/hotswap Printed Circuit Board (PCB) option, a brass weight and plate. The default brass plate has a fixed layout, catering only for ANSI and 6.25 Units (6.25U) spacebar. The soldered PCB comes with a flex cut in the middle to allow minor flex for the typing feel, however, there is almost 0 flex experience due to the board being a top mount and having a brass plate.
+The keyboard features a 65% layout, top mount, soldered/hotswap Printed Circuit Board (PCB), a brass weight and plate. The default brass plate has a fixed layout, catering only for ANSI and 6.25 Units (6.25U) spacebar. The soldered PCB comes with a flex cut in the middle to allow minor flex for the typing feel, however, there is almost 0 flex experience due to the board being a top mount and having a brass plate.
 
 The anodization on the KBD67 Rev 2.0 MKii is decent for a mid tier custom mechanical keyboard. On my personal unit, the KBD67 Rev 2.0 MKii had a slight anodization mismatched on the bottom case and top case. However, the mismatch is not obvious from afar unless viewed upon up close. The CNC machining on the board do have a decent feeling to it, there are almost no CNC machining marks on it.
 
