@@ -11,7 +11,7 @@ I hope my writing will help you with choosing your first custom mechanical keybo
 
 ### More Information
 
-Here is a list of the keyboards I own and had owned.
+Here is a list of the keyboards I own or had owned and inclusive of the upcoming boards that will be reviewing.
 
 1. KBD67 Rev 2.0 MKii in Grey Aluminum (Sold)
 2. KBD67 Rev 2.0 MKii in Polycarbonate (Sold)
