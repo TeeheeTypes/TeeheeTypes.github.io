@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proto Test 2!
+title: KBD67 Rev 2.0 MKii Polycarbonate Edition Review!
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
