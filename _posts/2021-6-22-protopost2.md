@@ -3,7 +3,7 @@ layout: post
 title: KBD67 Rev 2.0 MKii Polycarbonate Edition Review!
 ---
 
-![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/KBD67V2MKii%20Polycarbonate.jpg)
+![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/KBD67%20Rev%202.0%20MKii%20Polycarb.jpeg)
 
 THIS IS A PROTOTYPE 2
 
