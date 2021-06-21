@@ -1,9 +1,9 @@
 ---
 layout: post
-title: KBD67 Rev 2.0 MKii Review!
+title: KBD67 Rev 2.0 MKii Alu Review!
 ---
 
-![_config.yml]({{ site.baseurl }}/images/kbd67 rev2.0 mkii.jpg)
+![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/KBD67R2%20MKii%20Alu%20Grey.jpg)
 
 The KBD67 Rev 2.0 MKii is a custom mechanical keyboard designed by Ai03 in collaboration with KBDFans. KBDFans is known by the community as the vendor that helps to provide entry level mechanical keyboards. Starting at $235 the KBD67 Rev 2.0 MKii pricing may be slightly higher than than most entry custom mechanical keyboards. However, the quality provided will offer a much better typing experience than most entry level mechanical keyboards.
 
