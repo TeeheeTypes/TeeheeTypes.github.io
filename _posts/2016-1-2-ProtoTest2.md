@@ -5,7 +5,7 @@ title: Proto Test 2!
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/kbd67 rev2.0 mkii.jpg)
+![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/KBD67V2MKii%20Polycarbonate.jpg)
 
 THIS IS A PROTOTYPE 2
 
