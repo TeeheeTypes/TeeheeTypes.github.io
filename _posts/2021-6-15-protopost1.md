@@ -38,3 +38,11 @@ In conclusion, I will say this keyboard offers a good starting experience if thi
 **Potential Alternative**
 
 In the recent month, the custom mechanical keyboard scene has grown exponentially and there are more alternative custom mechanical keyboards. In the year 2021, Cannonkeys launched the Bakeneko a 60% aluminum casted mechanical keyboard at only USD$120. GMMK also released their own version of GMMK Pro a 75% gasket mounted aluminum mechanical keyboard at USD$170. In June of 2021, Keychron introduced their 75% gasket mounted aluminum mechanical keyboard and the target price is USD$150 and include both switches and stabilizers. The same month, Charue Design released an O-ring mounted (Gummy Worm) 60% CNC aluminum mechanical keyboard at USD$185 for the non-weighted version and USD$215 for the weighted version. There are other honorable mentions such as Makerkeyboards with their O-ring mounted (Gummy Worm) 65% CNC aluminum mechanical keyboard at USD$215. Please do your due diligence as the buyer before committing to any keyboards.
+
+
+**Scoreboard**
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
