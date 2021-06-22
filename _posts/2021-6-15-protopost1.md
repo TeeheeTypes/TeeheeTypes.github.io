@@ -26,3 +26,6 @@ In conclusion, I will say this keyboard definitely offer a good typing experienc
 **Conclusion**
 
 This keyboard will not provide you with the luxury or premium feel, however, if you're looking for a decent entry level custom mechanical keyboard it will be able to fill the void. There are some minor issues with the keyboard, such as you may have put a layer of the foam beneath the PCB to remove the metallic 'ping' the KBD67 Rev 2.0 MKii Alu tend to create due to the low clearance between the PCB and the bottom case. With simple mods and tinkering, this keyboard will definitely be able to provide you with a wonderful typing experience.
+
+**Potential Alternative**
+
