@@ -44,7 +44,7 @@ In the recent month, the custom mechanical keyboard scene has grown exponentiall
 
 <table class="tg">
   <tr>
-    <th class="tg-baqh" colspan="2">KBD67 Rev 2.0 MKii Aluminum</th>
+    <th class="tg-baqh" colspan="1">KBD67 Rev 2.0 MKii Aluminum</th>
   </tr>
   <tr>
     <th class="tg-baqh">Category</th>
@@ -52,15 +52,15 @@ In the recent month, the custom mechanical keyboard scene has grown exponentiall
   </tr>
   <tr>
     <td class="tg-baqh">Typing Experience (Flex/Bounce)</td>
-    <td class="tg-baqh">6/10</td>
+    <td class="tg-baqh" colspan="1" >6/10</td>
   </tr>
   <tr>
     <td class="tg-baqh">Sound & Sound Isolation</td>
-    <td class="tg-baqh">5/10</td>
+    <td class="tg-baqh" colspan="1" >5/10</td>
   </tr>
   <tr>
     <td class="tg-baqh">Case Quality</td>
-    <td class="tg-baqh">5/10</td>
+    <td class="tg-baqh" colspan="1" >5/10</td>
   </tr>
 </table>
 
