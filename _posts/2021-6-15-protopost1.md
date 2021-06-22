@@ -86,3 +86,22 @@ In the recent month, the custom mechanical keyboard scene has grown exponentiall
 	<tr><th scope="row">8</th><td> 8              </td><td>Calgary         </td><td>Alberta         </td><td>  5210          </td><td>1239220         </td><td> 0.4            </td><td>51.03           </td><td>-114.04         </td></tr>
 </tbody>
 </table>
+
+<table>
+  <thead><tr><th scope="col">City</th><th scope="col">Historical_Percentage</th><th scope="col">Current_Percentage</th></tr></thead>
+   <tbody>
+	<tr><td>Bolton          </td><td>11.7            </td><td> NA             </td></tr>
+	<tr><td>St. Catharines  </td><td> 7.5            </td><td>0.0             </td></tr>
+	<tr><td>Montreal        </td><td> 6.3            </td><td>0.2             </td></tr>
+	<tr><td>Toronto         </td><td> 5.6            </td><td>0.1             </td></tr>
+	<tr><td>Sault Ste. Marie</td><td> 4.5            </td><td>0.2             </td></tr>
+	<tr><td>Windsor         </td><td> 3.9            </td><td>0.1             </td></tr>
+	<tr><td>Hamilton        </td><td> 3.4            </td><td>0.3             </td></tr>
+	<tr><td>Thunder Bay     </td><td> 2.7            </td><td>0.0             </td></tr>
+	<tr><td>Oshawa          </td><td> 2.2            </td><td>0.1             </td></tr>
+	<tr><td>Guelph          </td><td> 1.8            </td><td>0.3             </td></tr>
+	<tr><td>Sudbury         </td><td> 1.5            </td><td>0.4             </td></tr>
+	<tr><td>Ottawa          </td><td> 0.9            </td><td>0.2             </td></tr>
+	<tr><td>London          </td><td> 0.8            </td><td>0.1             </td></tr>
+   </tbody>
+</table>
