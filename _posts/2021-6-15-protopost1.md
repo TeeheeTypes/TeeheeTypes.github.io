@@ -19,7 +19,7 @@ The anodization on the KBD67 Rev 2.0 MKii is decent for a mid tier custom mechan
 
 My personal KBD67 Rev 2.0 MKii Alu backplate did started to patina after 6-7 months of usage. This is due to the brassplate is not PVD coated and is subjected to the weather and humidity which may lead to an early onset of patina. But it is nothing that cannot be removed, if you choose to remove it do remember to detach it from the bottom case before attempting to either polish or sand the brass plate. 
 
-** Case Quality**
+**Case Quality**
 
 In conclusion, I will say this keyboard definitely offer a good typing experience if this is the first time you're entering into the hobby. Granted in recent months there are more custom CNC aluminum keyboards coming out with cheaper pricing such as the Bakeneko, Keychron Q1, ORB60, WORB60 and GMMK Pro. But if you're looking for an entry level 65% keyboard the KBD67 Rev 2.0 MKii Alu is defintiely a board to consider.
 
