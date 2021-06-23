@@ -17,7 +17,7 @@ Due to the keyboard comes with a brass plate and top mount configuration, it doe
 
 **Sound & Sound Isolation**
 
-The KBD67 Rev 2.0 MKii Alu sound exactly like all top mount boards currently within the hobby. The vibration will trave from the plate to the top of the case before traveling down to the bottom case and dissipating itself. The sound on this board is not the best, but if configured properly it does offer a decent sounding keyboard.
+The KBD67 Rev 2.0 MKii Alu sound exactly like all top mount boards currently within the hobby. The vibration produced by each key press will travel from the plate to the top of the case before traveling down to the bottom case and dissipating itself. The sound on this board is not the best, but if configured properly it does offer a decent sounding keyboard.
 
 However, there are some reports circulating within reddit/geekhack/forums on a metallic buzz during prolong typing. A member in the community managed to isolate the buzz to the brass backweight of the keyboard. It is to my understanding that the brass backweight did not come with a screw that secure the backweight tightly and when the vibration is traveling downwards, it may cause a slight reverb back due to the brass backweight. The problem was resolved by removing the backplate completely.
 
