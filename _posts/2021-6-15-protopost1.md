@@ -66,33 +66,4 @@ In the recent month, the custom mechanical keyboard scene has grown exponentiall
 
 WASSDDDFDASFGAG
 
-<html>
-  <head>
-    <title>Title of the document</title>
-    <style>
-      table,
-      th,
-      td {
-        padding: 10px;
-        border: 1px solid black;
-        border-collapse: collapse;
-      }
-    </style>
-  </head>
-  <body>
-    <table>
-      <tr>
-        <th>Person</th>
-        <th>Age</th>
-      </tr>
-      <tr>
-        <td>Ann</td>
-        <td>19</td>
-      </tr>
-      <tr>
-        <td>Susie</td>
-        <td>22</td>
-      </tr>
-    </table>
-  </body>
-</html>
+
