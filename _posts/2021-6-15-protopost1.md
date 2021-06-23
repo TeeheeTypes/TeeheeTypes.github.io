@@ -47,11 +47,11 @@ In the recent month, the custom mechanical keyboard scene has grown exponentiall
     <title>KBD67 Rev 2.0 MKii Aluminum</title>
     <style>
       table,
-      th,
-      td {
+      td,
+      th {
         padding: 10px;
-        border: 1px solid black;
-        border-collapse: collapse;
+        border-bottom: 2px solid #8ebf42;
+        text-align: center;
       }
     </style>
   </head>
