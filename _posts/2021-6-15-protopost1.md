@@ -42,28 +42,37 @@ In the recent month, the custom mechanical keyboard scene has grown exponentiall
 
 **Scoreboard**
 
-<table class="tg">
-  <tr>
-    <th class="tg-baqh" colspan="1">KBD67 Rev 2.0 MKii Aluminum</th>
-  </tr>
-  <tr>
-    <th class="tg-baqh">Category</th>
-    <th class="tg-baqh">Score</th>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Typing Experience (Flex/Bounce)</td>
-    <td class="tg-baqh" colspan="1" >6/10</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Sound & Sound Isolation</td>
-    <td class="tg-baqh" colspan="1" >5/10</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Case Quality</td>
-    <td class="tg-baqh" colspan="1" >5/10</td>
-  </tr>
-</table>
-
-WASSDDDFDASFGAG
-
-
+<html>
+  <head>
+    <title>KBD67 Rev 2.0 MKii Aluminum</title>
+    <style>
+      table,
+      th,
+      td {
+        padding: 10px;
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>Category</th>
+        <th>Score</th>
+      </tr>
+      <tr>
+        <td>Typing Experience (Flex/Bounce)</td>
+        <td>6/10</td>
+      </tr>
+      <tr>
+        <td>Sound & Sound Isolation</td>
+        <td>5/10</td>
+      </tr>
+      <tr>
+        <td>Case Quality</td>
+        <td>5/10</td>
+      </tr>
+    </table>
+  </body>
+</html>
