@@ -50,8 +50,8 @@ In the recent month, the custom mechanical keyboard scene has grown exponentiall
       th,
       td {
         padding: 10px;
-        border-bottom: 1px solid black;
-        text-align: center;
+        border: 1px solid black;
+        border-collapse: collapse;
       }
     </style>
   </head>
