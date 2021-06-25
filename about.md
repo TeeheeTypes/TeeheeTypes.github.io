@@ -29,7 +29,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 14. Helix Lab Aaru in Black (Upcoming)
 15. Eclipse (FRL TKL) in Dark Gray (Upcoming)
 16. Monokei X TGR Tomo in Royale Purple (Upcoming)
-17. DriftMechanic Forever 65 in Navy (Upcoming) 
+17. DriftMechanic Forever 65 in Navy (In Collection) 
 
 ### Contact me
 
