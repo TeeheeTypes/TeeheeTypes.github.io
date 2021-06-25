@@ -65,11 +65,11 @@ In the recent month, the custom mechanical keyboard scene has grown exponentiall
       </tr>
       <tr>
         <td>Sound & Sound Isolation</td>
-        <td>5/10</td>
+        <td>6/10</td>
       </tr>
       <tr>
         <td>Case Quality</td>
-        <td>5/10</td>
+        <td>6/10</td>
       </tr>
     </table>
   </body>
