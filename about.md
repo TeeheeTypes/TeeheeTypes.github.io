@@ -30,6 +30,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 15. Eclipse (FRL TKL) in Dark Gray (Upcoming)
 16. Monokei X TGR Tomo in Royale Purple (Upcoming)
 17. DriftMechanic Forever 65 in Navy (In Collection) 
+18. Noxary.co 378 in Silver (Upcoming)
 
 ### Contact me
 
