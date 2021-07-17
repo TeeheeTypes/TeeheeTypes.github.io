@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 I am a relatively new enthusiast in the Custom Mechanical Keyboard hobby.
