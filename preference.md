@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Preference
-permalink: /Preference/
+permalink: /preference/
 ---
 
 Test
