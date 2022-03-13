@@ -3,7 +3,9 @@ layout: post
 title: KBDFans D65 Review!
 ---
 
-![_config.yml]
+![_config.yml] https://github.com/TeeheeTypes/TeeheeTypes.github.io/blob/master/images/photo_2022-03-13_15-31-58.jpg?raw=true
+
+![_config.yml] https://github.com/TeeheeTypes/TeeheeTypes.github.io/blob/master/images/photo_2022-03-13_15-32-06.jpg?raw=true
 
 **Introduction**
 
