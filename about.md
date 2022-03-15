@@ -13,7 +13,7 @@ I hope my writing will help you with choosing your first custom mechanical keybo
 
 Here is a list of the keyboards I own or had owned and inclusive of the upcoming boards that will be reviewed.
 
-### Currennt Keyboards
+### Current Keyboards
 
 1. Dalco 959 Mini in Silver
 2. Constellation in Navy 
