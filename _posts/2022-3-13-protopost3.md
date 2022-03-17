@@ -43,7 +43,7 @@ In the recent month, the custom mechanical keyboard scene has grown exponentiall
 
 <html>
   <head>
-    <title>KBD67 Rev 2.0 MKii Polycarbonate</title>
+    <title>KBDFans D65</title>
     <style>
       table,
       th,
