@@ -37,7 +37,7 @@ The gasket provides a decent amount of sound isolation, however, as mentioned th
 
 <html>
   <head>
-    <title>KBD67 Rev 2.0 MKii Polycarbonate</title>
+    <title>Wuque Studio Ikki68 Aurora</title>
     <style>
       table,
       th,
