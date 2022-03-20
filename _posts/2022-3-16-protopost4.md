@@ -3,9 +3,9 @@ layout: post
 title: Wuque Studio Ikki68 Aurora Review!
 ---
 
-![_config.yml]
+![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/Barebone.jpg)
 
-![_config.yml]
+![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/Top case.jpg)
 
 **Introduction**
 
@@ -26,6 +26,8 @@ The gasket provides a decent amount of sound isolation, however, as mentioned th
  The overall case quality of the Ikki68 Aurora is well constructed and sturdy. When you are holding it, you know you're holding a plastic keyboard as the weight gives it away. The keyboard is not the heaviest keyboard out in the market and it is also not the lightest keyboard out in the market. The keyboard comes with an option to purchase a separate brass weight. The weight comes with an interesting aurora design laser engraved onto the brass weight. The weight helps to give the keyboard a little heft to it, pushing the keyboard from an estimated 1kg built to an estimated 1.5kg built.
  
  The keyboard case comes with printed engraving for both Mizu and Devoted edition. The Mizu edition comes with a opaque case with 2 koi fish printed on the USB side of the case, while the devoted has a transluslent case design with vines printed on the USB side of the case. The overall design helps to bring out the specific theme of the keyboard. Each of these special edition keyboards are meant to be paired with their specific keycaps; Mizu with GMK Mizu or KAT Mizu, while the Devoted with GMK Devoted. 
+
+![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/brass weight.jpg)
 
 **Conclusion**
 
