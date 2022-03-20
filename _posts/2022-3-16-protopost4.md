@@ -5,7 +5,7 @@ title: Wuque Studio Ikki68 Aurora Review!
 
 ![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/Barebone.jpg)
 
-![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/Top_case.jpg)
+![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/Top%20case.jpg)
 
 **Introduction**
 
@@ -27,7 +27,7 @@ The gasket provides a decent amount of sound isolation, however, as mentioned th
  
  The keyboard case comes with printed engraving for both Mizu and Devoted edition. The Mizu edition comes with a opaque case with 2 koi fish printed on the USB side of the case, while the devoted has a transluslent case design with vines printed on the USB side of the case. The overall design helps to bring out the specific theme of the keyboard. Each of these special edition keyboards are meant to be paired with their specific keycaps; Mizu with GMK Mizu or KAT Mizu, while the Devoted with GMK Devoted. 
 
-![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/brass_weight.jpg)
+![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/brass%20weight.jpg)
 
 **Conclusion**
 
