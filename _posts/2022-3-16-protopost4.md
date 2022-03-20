@@ -29,11 +29,13 @@ The gasket provides a decent amount of sound isolation, however, as mentioned th
 
 **Conclusion**
 
+The Ikki68 Aurora is a perfect beginner board if you're purchasing the standard edition in Mint or Charcoal for the Round 1, the Round 2 standard Edition offered a variety of colorway. The pricing of the keyboard is reasonable for what you're getting. The PCB having multiple layouts for a hotswap keyboard, it comes with the bluetooth ready option with the change of a PCB, the keyboard also comes with a coiled cable and a case. Having all these items factor in, the overall pricing of the keyboard is really worth in all aspect. The fact that it also offer the option to change up the weight of the keyboard with the base built at an estimated 1kg and adding on an additional brass weight at 400g.
 
+These options offer the perfect balance for any beginners who just started out or has been dabbling in the hobby for awhile and is still unsure what they prefer. The keyboard also offer the option of having different mounting style and gasket material further enhance the overall experience. If people who are just joining the keyboard enthusiast hobby are not sure what keyboard to purchase as their first keyboard, the ikki68 aurora will their needs perfectly.
 
 **Potential Alternative**
 
-
+The current market has multiple additional options for people to try out the keyboard hobby, the QwertyKeys QK65, Keychron Q1-3 series, KBD67 Lite, Cannonkey Bakeneko 60/65, etc. are all perfect alternatives to the ikki68 Aurora. They are all priced at similar price range, if you're looking for an alternative to fit your preference better you may choose to look at the other keyboards for reference. 
 
 **Scoreboard**
 
@@ -58,15 +60,15 @@ The gasket provides a decent amount of sound isolation, however, as mentioned th
       </tr>
       <tr>
         <td>Typing Experience (Flex/Bounce)</td>
-        <td>4/10</td>
+        <td>8/10</td>
       </tr>
       <tr>
         <td>Sound & Sound Isolation</td>
-        <td>5/10</td>
+        <td>6/10</td>
       </tr>
       <tr>
         <td>Case Quality</td>
-        <td>7/10</td>
+        <td>8/10</td>
       </tr>
     </table>
   </body>
