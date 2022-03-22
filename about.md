@@ -21,24 +21,24 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 4. CableCar Design Cypher in Lilac
 5. Zekk.Works Ogre in Red
 6. Ai03 X PrimeKB Meridian in Black
+7. Bachoo Nemui in Wine Red 
 
 ### Upcoming Keyboards
 
 1. Ai03 Vega in Navy 
 2. Tsukuyomi 65 in Navy 
-3. Bachoo Nemui in Wine Red 
-4. Night Sakura Fuji 65 FE in Navy 
-5. CableCar Design Angel 65 in Silver 
-6. Wilba-Tech X Salvun Salvation in Navy 
-7. Helix Lab Aaru in Black 
-8. Eclipse (FRL TKL) in Dark Gray 
-9. Noxary.co 378 in Silver 
-10. Bolsa Supply Midway60 in Black 
-11. Jjw Cloudline in Red
-12. Baion Bias in Black
-13. Fropsie Foundation FE in Very Peri 
-14. Hiney TKL One PC in Mystery Colorway
-15. CableCar Design Phoenix in Black
+3. Night Sakura Fuji 65 FE in Navy 
+4. CableCar Design Angel 65 in Silver
+5. Wilba-Tech X Salvun Salvation in Navy 
+6. Helix Lab Aaru in Black  
+7. Eclipse (FRL TKL) in Dark Gray 
+8. Noxary.co 378 in Silver
+9.  Bolsa Supply Midway60 in Black 
+10. Jjw Cloudline in Red
+11. Baion Bias in Black
+12. Fropsie Foundation FE in Very Peri
+13. Hiney TKL One PC in Mystery Colorway 
+14. CableCar Design Phoenix in Black
 
 ### Previous Keyboards
 
