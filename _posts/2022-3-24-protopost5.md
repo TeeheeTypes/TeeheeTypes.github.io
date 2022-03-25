@@ -3,9 +3,9 @@ layout: post
 title: Foxlab Leaf65 Review!
 ---
 
-![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/Barebone.jpg)
+![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/leaf65topcase.jpg)
 
-![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/Top%20case.jpg)
+![_config.yml](https://raw.githubusercontent.com/TeeheeTypes/TeeheeTypes.github.io/master/images/leaf65bottomcase.jpg)
 
 **Introduction**
 
