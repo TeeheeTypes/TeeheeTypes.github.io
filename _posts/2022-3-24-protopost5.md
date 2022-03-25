@@ -10,6 +10,7 @@ title: Foxlab Leaf65 Review!
 **Introduction**
 
 
+
 **Typing Experience (Flex/Bounce)**
 
 
@@ -53,15 +54,15 @@ title: Foxlab Leaf65 Review!
       </tr>
       <tr>
         <td>Typing Experience (Flex/Bounce)</td>
-        <td>8/10</td>
+        <td>5/10</td>
       </tr>
       <tr>
         <td>Sound & Sound Isolation</td>
-        <td>6/10</td>
+        <td>8/10</td>
       </tr>
       <tr>
         <td>Case Quality</td>
-        <td>8/10</td>
+        <td>7/10</td>
       </tr>
     </table>
   </body>
