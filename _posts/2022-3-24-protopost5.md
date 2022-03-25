@@ -9,7 +9,7 @@ title: Foxlab Leaf65 Review!
 
 **Introduction**
 
-
+The Leaf65 by Foxlab is the 2nd iteration of the Leaf collection. The first was the Leaf60 a sandwich mount keyboard and the Leaf65 is a gasket mounted keyboard. Foxlab took great attention in creating a unique sounding keyboard. The Leaf65 introduced a new type of plate called the skeleton aluminum plate, it's a plate that was hollowed out to to only a frame holding the switches in place and for the gasket mounting system. All other aluminum has been milled off to allow as little plate vibration as possible. Resulting in what to be heard is purely the sound from the switch and the bottoming out PCB sound.
 
 **Typing Experience (Flex/Bounce)**
 
