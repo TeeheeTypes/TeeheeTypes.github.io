@@ -16,7 +16,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 ### Current Keyboards
 
 1. Dalco 959 Mini in Silver
-2. Constellation in Navy 
+2. Aeboards Constellation in Navy 
 3. DriftMechanic Forever 65 in Navy 
 4. CableCar Design Cypher in Lilac
 5. Zekk.Works Ogre in Red
