@@ -22,6 +22,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 5. Zekk.Works Ogre in Red
 6. Ai03 X PrimeKB Meridian in Black
 7. Bachoo Nemui in Wine Red 
+8. Nazare 1-60 W1 in White
 
 ### Upcoming Keyboards
 
