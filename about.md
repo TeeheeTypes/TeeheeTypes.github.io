@@ -28,18 +28,20 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 
 1. Ai03 Vega in Navy 
 2. Tsukuyomi 65 in Navy 
-3. Night Sakura Fuji 65 FE in Navy 
-4. CableCar Design Angel 65 in Silver
-5. Wilba-Tech X Salvun Salvation in Navy 
-6. Helix Lab Aaru in Black  
-7. Eclipse (FRL TKL) in Dark Gray 
-8. Noxary.co 378 in Silver
-9.  Bolsa Supply Midway60 in Black 
-10. Jjw Cloudline in Red
-11. Baion Bias in Black
-12. Fropsie Foundation FE in Very Peri
-13. Hiney TKL One PC in Mystery Colorway 
-14. CableCar Design Phoenix in Black
+3. CableCar Design Angel 65 in Silver 
+4. Helix Lab Aaru in Black
+5. Noxary.co 378 in Silver 
+6. Bolsa Supply Midway60 in Black  
+7. Jjw Cloudline in Red
+8. Baion Bias in Black
+9. Fropsie Foundation FE in Very Peri
+10. Hiney TKL One PC in Mystery Colorway
+11. CableCar Design Phoenix in Black
+12. KLC Dolice in Dark Green
+13. Eclipse (FRL TKL) in Dark Gray 
+14. -
+15. -
+16. -
 
 ### Previous Keyboards
 
@@ -49,6 +51,8 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 4. Ikki68 Aurora X Devoted in Purple 
 5. FoxLab Leaf 65 in Navy 
 6. Monokei X TGR Tomo in Royale Purple 
+7. Wilba-Tech X Salvun Salvation in Navy
+8. Night Sakura Fuji 65 FE in Navy
 
 ### Contact me
 
