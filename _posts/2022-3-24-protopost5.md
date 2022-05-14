@@ -21,15 +21,15 @@ The overall sound of the board is rather muted for a board that was built withou
 
 **Case Quality**
 
-
+The case was a little disappointing in my personal opinion, the texture of the board was rougher than what I had expected. I am unable to determine if that was the intended design or was it a design issue. However, the anodization on the case is flawless and the PVD on the mid piece was perfect. However, what I noticed was due to the coating from the PVD, it resulted the daughterboard screw thread to become too small for the screw to enter. Hence, the daughterboard could not be screwed fully in and resulting in the daughterboard to be left slightly moveable. Apart from the afore mentioned, the board gives the $415 USD a tough position, although I will recommend many other boards under $415 USD and will give you the same amount of enjoyment. The Vega by AI03 is 1 of the boards that was $328 USD at launch and I will say that board really give quality a run for its money.
 
 **Conclusion**
 
-
+In conclusion, this board has wonderful anodization and Fox.Lab even took extra time to ensure all anode issue boards were resolved before being shipped. However, due to the daughterboard unable to sit tightly issue, the case weird texture and the overly compressed gasket. I will say this board is a decent but it is not worth the $415 USD. There are way better boards out in the market that you can buy with the same amount of money.
 
 **Potential Alternative**
 
-
+As mentioned in the article, there are so many other boards such as; Vega, QK65, Angel65, Keychron, Zoom65, etc. that provide a much better value to board than the Leaf65. 
 
 **Scoreboard**
 
@@ -54,15 +54,15 @@ The overall sound of the board is rather muted for a board that was built withou
       </tr>
       <tr>
         <td>Typing Experience (Flex/Bounce)</td>
-        <td>5/10</td>
+        <td>3/10</td>
       </tr>
       <tr>
         <td>Sound & Sound Isolation</td>
-        <td>8/10</td>
+        <td>6/10</td>
       </tr>
       <tr>
         <td>Case Quality</td>
-        <td>7/10</td>
+        <td>4/10</td>
       </tr>
     </table>
   </body>
