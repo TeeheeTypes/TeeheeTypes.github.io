@@ -15,44 +15,48 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 
 ### Current Keyboards
 
-1. Hands Engineering Dalco 959 Mini in Silver
-2. Aeboards Constellation in Navy 
-3. DriftMechanic Forever 65 in Navy 
-4. CableCar Design Cypher in Lilac
-5. Zekk.Works Ogre in Red
-6. Ai03 X PrimeKB Meridian in Black
-7. Bachoo Nemui in Wine Red 
-8. Nazare 1-60 W1 in White
+01. Hands Engineering Dalco 959 Mini in Silver
+02. Aeboards Constellation in Navy 
+03. DriftMechanic Forever 65 in Navy 
+04. CableCar Design Cypher in Lilac
+05. Zekk.Works Ogre in Red
+06. Ai03 X PrimeKB Meridian in Black
+07. Bachoo Nemui in Wine Red 
+08. Nazare 1-60 W1 in White
+09. Tsukuyomi 65 in Navy
+10. CableCar Design Angel 65 in Silver
+11. Helix Lab Aaru in Black
+12. Geonworks F2-84 in Black
 
 ### Upcoming Keyboards
 
-1. Ai03 Vega in Navy 
-2. Tsukuyomi 65 in Navy 
-3. CableCar Design Angel 65 in Silver 
-4. Helix Lab Aaru in Black
-5. Noxary.co 378 in Silver 
-6. Bolsa Supply Midway60 in Black  
-7. Jjw Cloudline in Red
-8. Baion Bias in Black
-9. Fropsie Foundation FE in Very Peri
-10. Hiney TKL One PC in Mystery Colorway
-11. CableCar Design Phoenix in Black
-12. KLC Dolice in Dark Green
-13. Eclipse (FRL TKL) in Dark Gray 
+01. Ai03 Vega in Navy 
+02. Noxary.co 378 in Silver 
+03. Bolsa Supply Midway60 in Black 
+04. Jjw Cloudline in Red
+05. Baion Bias in Black 
+06. Fropsie Foundation FE in Very Peri  
+07. Hiney TKL One PC in Mystery Colorway
+08. CableCar Design Phoenix in Black
+09. KLC Dolice in Dark Green
+10. Eclipse (FRL TKL) in Dark Gray
+11. Bisoromi RS60 in Red
+12. -
+13. - 
 14. -
 15. -
 16. -
 
 ### Previous Keyboards
 
-1. KBD67 Rev 2.0 MKii in Grey Aluminum 
-2. KBD67 Rev 2.0 MKii in Polycarbonate 
-3. KBDFans D65 in E-White coating 
-4. Ikki68 Aurora X Devoted in Purple 
-5. FoxLab Leaf 65 in Navy 
-6. Monokei X TGR Tomo in Royale Purple 
-7. Wilba-Tech X Salvun Salvation in Navy
-8. Night Sakura Fuji 65 FE in Navy
+01. KBD67 Rev 2.0 MKii in Grey Aluminum 
+02. KBD67 Rev 2.0 MKii in Polycarbonate 
+03. KBDFans D65 in E-White coating 
+04. Ikki68 Aurora X Devoted in Purple 
+05. FoxLab Leaf 65 in Navy 
+06. Monokei X TGR Tomo in Royale Purple 
+07. Wilba-Tech X Salvun Salvation in Navy
+08. Night Sakura Fuji 65 FE in Navy
 
 ### Contact me
 
