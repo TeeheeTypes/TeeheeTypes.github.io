@@ -42,7 +42,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 10. Eclipse (FRL TKL) in Dark Gray
 11. Bisoromi RS60 in Red
 12. -
-13. - 
+13. -
 14. -
 15. -
 16. -
