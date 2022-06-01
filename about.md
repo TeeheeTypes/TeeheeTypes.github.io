@@ -24,9 +24,9 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 07. Bachoo Nemui in Wine Red 
 08. Nazare 1-60 W1 in White
 09. Tsukuyomi 65 in Navy
-10. CableCar Design Angel 65 in Silver
-11. Helix Lab Aaru in Black
-12. Geonworks F2-84 in Black
+10. Helix Lab Aaru in Black
+11. Geonworks F2-84 in Black
+12. -
 
 ### Upcoming Keyboards
 
@@ -39,8 +39,8 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 07. Hiney TKL One PC in Mystery Colorway
 08. CableCar Design Phoenix in Black
 09. KLC Dolice in Dark Green
-10. Eclipse (FRL TKL) in Dark Gray
-11. Bisoromi RS60 in Red
+10. Bisoromi RS60 in Red
+11. Baion Ophanim in Black
 12. -
 13. -
 14. -
@@ -57,6 +57,8 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 06. Monokei X TGR Tomo in Royale Purple 
 07. Wilba-Tech X Salvun Salvation in Navy
 08. Night Sakura Fuji 65 FE in Navy
+09. Eclipse (FRL TKL) in Dark Gray
+10. CableCar Design Angel 65 in Silver
 
 ### Contact me
 
