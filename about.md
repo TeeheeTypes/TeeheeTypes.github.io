@@ -21,11 +21,11 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 04. CableCar Design Cypher in Lilac
 05. Zekk.Works Ogre in Red
 06. Ai03 X PrimeKB Meridian in Black
-07. Bachoo Nemui in Wine Red 
-08. Nazare 1-60 W1 in White
-09. Tsukuyomi 65 in Navy
-10. Helix Lab Aaru in Black
-11. Geonworks F2-84 in Black
+07. Nazare 1-60 W1 in White 
+08. Tsukuyomi 65 in Navy
+09. Helix Lab Aaru in Black
+10. Geonworks F2-84 in Black
+11. -
 12. -
 
 ### Upcoming Keyboards
