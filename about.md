@@ -59,6 +59,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 08. Night Sakura Fuji 65 FE in Navy
 09. Eclipse (FRL TKL) in Dark Gray
 10. CableCar Design Angel 65 in Silver
+11. Bachoo Nemui in Wine Red
 
 ### Contact me
 
