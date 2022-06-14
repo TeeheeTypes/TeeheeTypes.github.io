@@ -41,7 +41,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 09. KLC Dolice in Dark Green
 10. Bisoromi RS60 in Red
 11. Baion Ophanim in Black
-12. -
+12. NRD Kaze in Lilac
 13. -
 14. -
 15. -
