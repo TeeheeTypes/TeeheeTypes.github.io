@@ -32,7 +32,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 
 01. Ai03 Vega in Navy 
 02. Noxary.co 378 in Silver 
-03. Bolsa Supply Midway60 in Black 
+03. Bolsa Supply Midway60 in Iron Grey 
 04. Jjw Cloudline in Red
 05. Baion Bias in Black 
 06. Fropsie Foundation FE in Very Peri  
