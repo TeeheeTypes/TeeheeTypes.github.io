@@ -31,7 +31,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 ### Upcoming Keyboards
 
 01. Ai03 Vega in Navy 
-02. Noxary.co 378 in Silver 
+02. Noxary.co 378 in Meteorite Grey 
 03. Bolsa Supply Midway60 in Iron Grey 
 04. Jjw Cloudline in Red
 05. Baion Bias in Black 
