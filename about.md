@@ -20,13 +20,11 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 03. DriftMechanic Forever 65 in Navy 
 04. CableCar Design Cypher in Lilac
 05. Zekk.Works Ogre in Red
-06. 
-07. Nazare 1-60 W1 in White 
-08. 
-09. Helix Lab Aaru in Black
-10. Geonworks F2-84 in Black
-11. -
-12. -
+06. Nazare 1-60 W1 in White
+07. Helix Lab Aaru in Black 
+08. Geonworks F2-84 in Black
+09. -
+10. -
 
 ### Upcoming Keyboards
 
@@ -44,7 +42,6 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 12. Geonworks F1-8X 722 in Raw Aluminum
 13. -
 14. -
-15. -
 
 ### Previous Keyboards
 
