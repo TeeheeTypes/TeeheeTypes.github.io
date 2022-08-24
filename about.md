@@ -20,9 +20,9 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 03. DriftMechanic Forever 65 in Navy 
 04. CableCar Design Cypher in Lilac
 05. Zekk.Works Ogre in Red
-06. Ai03 X PrimeKB Meridian in Black
+06. 
 07. Nazare 1-60 W1 in White 
-08. Tsukuyomi 65 in Navy
+08. 
 09. Helix Lab Aaru in Black
 10. Geonworks F2-84 in Black
 11. -
@@ -40,12 +40,11 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 08. CableCar Design Phoenix in Black
 09. KLC Dolice in Dark Green
 10. Bisoromi RS60 in Red
-11. Baion Ophanim in Black
-12. NRD Kaze in Lilac
+11. NRD Kaze in Lilac
+12. Geonworks F1-8X 722 in Raw Aluminum
 13. -
 14. -
 15. -
-16. -
 
 ### Previous Keyboards
 
@@ -60,6 +59,8 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 09. Eclipse (FRL TKL) in Dark Gray
 10. CableCar Design Angel 65 in Silver
 11. Bachoo Nemui in Wine Red
+12. Tsukuyomi 65 in Navy
+13. Ai03 X PrimeKB Meridian in Black
 
 ### Contact me
 
