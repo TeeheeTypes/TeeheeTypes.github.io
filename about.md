@@ -30,18 +30,17 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 
 01. Ai03 Vega in Navy 
 02. Noxary.co 378 in Meteorite Grey 
-03. Bolsa Supply Midway60 in Iron Grey 
-04. Jjw Cloudline in Red
-05. Baion Bias in Black 
-06. Fropsie Foundation FE in Very Peri  
-07. Hiney TKL One PC in Mystery Colorway
-08. CableCar Design Phoenix in Black
-09. KLC Dolice in Dark Green
-10. Bisoromi RS60 in Red
-11. NRD Kaze in Lilac
-12. Geonworks F1-8X 722 in Raw Aluminum
+03. Jjw Cloudline in Red 
+04. Baion Bias in Black 
+05. Fropsie Foundation FE in Very Peri  
+06. Hiney TKL One PC in Mystery Colorway
+07. CableCar Design Phoenix in Black
+08. KLC Dolice in Dark Green
+09. Bisoromi RS60 in Red
+10. NRD Kaze in Lilac
+11. Geonworks F1-8X 722 in Raw Aluminum
+12. -
 13. -
-14. -
 
 ### Previous Keyboards
 
@@ -58,6 +57,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 11. Bachoo Nemui in Wine Red
 12. Tsukuyomi 65 in Navy
 13. Ai03 X PrimeKB Meridian in Black
+14. Bolsa Supply Midway60 in Iron Grey
 
 ### Contact me
 
