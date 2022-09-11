@@ -16,7 +16,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 ### Current Keyboards
 
 01. Hands Engineering Dalco 959 Mini in Silver
-02. Aeboards Constellation in Navy 
+02. Ai03 Vega in Navy  
 03. DriftMechanic Forever 65 in Navy 
 04. CableCar Design Cypher in Lilac
 05. Zekk.Works Ogre in Red
@@ -28,17 +28,17 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 
 ### Upcoming Keyboards
 
-01. Ai03 Vega in Navy 
-02. Noxary.co 378 in Meteorite Grey 
-03. Jjw Cloudline in Red 
-04. Baion Bias in Black 
-05. Fropsie Foundation FE in Very Peri  
-06. Hiney TKL One PC in Mystery Colorway
-07. CableCar Design Phoenix in Black
-08. KLC Dolice in Dark Green
-09. Bisoromi RS60 in Red
-10. NRD Kaze in Lilac
-11. Geonworks F1-8X 722 in Raw Aluminum
+01. Noxary.co 378 in Meteorite Grey
+02. Jjw Cloudline in Red 
+03. Baion Bias in Black  
+04. Fropsie Foundation FE in Very Peri
+05. CableCar Design Phoenix in Black  
+06. KLC Dolice in Dark Green
+07. Bisoromi RS60 in Red
+08. NRD Kaze in Lilac
+09. Geonworks F1-8X 722 in Raw Aluminum
+10. -
+11. -
 12. -
 13. -
 
@@ -58,6 +58,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 12. Tsukuyomi 65 in Navy
 13. Ai03 X PrimeKB Meridian in Black
 14. Bolsa Supply Midway60 in Iron Grey
+15. Aeboards Constellation in Navy
 
 ### Contact me
 
