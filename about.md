@@ -57,6 +57,8 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 14. Bolsa Supply Midway60 in Iron Grey
 15. Aeboards Constellation in Navy
 16. KLC Dolice in Dark Green
+17. Baion Bias in Black
+18. Hiney TKL One in Polycarbonate 
 
 ### Contact me
 
