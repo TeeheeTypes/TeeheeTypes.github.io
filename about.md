@@ -21,8 +21,8 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 04. CableCar Design Cypher in Lilac
 05. Zekk.Works Ogre in Red
 06. Nazare 1-60 W1 in White
-07. Helix Lab Aaru in Black 
-08. Geonworks F2-84 in Black
+07. Geonworks F2-84 in Black 
+08. -
 09. -
 10. -
 
@@ -59,6 +59,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 16. KLC Dolice in Dark Green
 17. Baion Bias in Black
 18. Hiney TKL One in Polycarbonate 
+19. Helix Lab Aaru in Black
 
 ### Contact me
 
