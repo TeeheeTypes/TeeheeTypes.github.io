@@ -30,17 +30,14 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 
 01. Noxary.co 378 in Meteorite Grey
 02. Jjw Cloudline in Red 
-03. Baion Bias in Black  
-04. Fropsie Foundation FE in Very Peri
-05. CableCar Design Phoenix in Black  
-06. KLC Dolice in Dark Green
-07. Bisoromi RS60 in Red
-08. NRD Kaze in Lilac
-09. Geonworks F1-8X 722 in Raw Aluminum
+03. Fropsie Foundation FE in Very Peri
+04. CableCar Design Phoenix in Black  
+05. Bisoromi RS60 in Red
+06. NRD Kaze in Lilac
+07. Geonworks F1-8X 722 in Raw Aluminum
+08. -
+09. -
 10. -
-11. -
-12. -
-13. -
 
 ### Previous Keyboards
 
@@ -59,6 +56,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 13. Ai03 X PrimeKB Meridian in Black
 14. Bolsa Supply Midway60 in Iron Grey
 15. Aeboards Constellation in Navy
+16. KLC Dolice in Dark Green
 
 ### Contact me
 
