@@ -35,7 +35,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 05. Bisoromi RS60 in Red
 06. NRD Kaze in Lilac
 07. Geonworks F1-8X 722 in Raw Aluminum
-08. -
+08. Singa Unikorn in Red
 09. -
 10. -
 
