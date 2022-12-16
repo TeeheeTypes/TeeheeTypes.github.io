@@ -22,20 +22,20 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 05. Zekk.Works Ogre in Red
 06. Nazare 1-60 W1 in White
 07. Geonworks F2-84 in Black 
-08. -
-09. -
+08. Geonworks F1-8X 722 in Raw Aluminum
+09. Jjw Cloudline in Red
 10. -
 
 ### Upcoming Keyboards
 
 01. Noxary.co 378 in Meteorite Grey
-02. Jjw Cloudline in Red 
-03. Fropsie Foundation FE in Very Peri
-04. CableCar Design Phoenix in Black  
-05. Bisoromi RS60 in Red
-06. NRD Kaze in Lilac
-07. Geonworks F1-8X 722 in Raw Aluminum
-08. Singa Unikorn in Red
+02. CableCar Design Phoenix in Black
+03. NRD Kaze in Lilac
+04. Singa Unikorn in Red 
+05. -
+06. -
+07. -
+08. -
 09. -
 10. -
 
@@ -60,6 +60,8 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 17. Baion Bias in Black
 18. Hiney TKL One in Polycarbonate 
 19. Helix Lab Aaru in Black
+20. Bisoromi RS60 in Red
+21. Fropsie Foundation FE in Very Peri
 
 ### Contact me
 
