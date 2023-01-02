@@ -24,14 +24,14 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 07. Geonworks F2-84 in Black 
 08. Geonworks F1-8X 722 in Raw Aluminum
 09. Jjw Cloudline in Red
-10. -
+10. Singa Unikorn in Red 
 
 ### Upcoming Keyboards
 
 01. Noxary.co 378 in Meteorite Grey
 02. CableCar Design Phoenix in Black
 03. NRD Kaze in Lilac
-04. Singa Unikorn in Red 
+04. -
 05. -
 06. -
 07. -
