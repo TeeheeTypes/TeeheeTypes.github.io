@@ -14,16 +14,16 @@ I hope my writing will help you with choosing your first custom mechanical keybo
 Here is a list of the keyboards I own or had owned and inclusive of the upcoming boards that will be reviewed.
 
 ### Current Keyboards
-
-01. Hands Engineering Dalco 959 Mini in Silver
-02. DriftMechanic Forever 65 in Navy  
-03. CableCar Design Cypher in Lilac 
-04. Zekk.Works Ogre in Red
-05. Nazare 1-60 W1 in White
-06. Geonworks F2-84 in Black
-07. Geonworks F1-8X 722 in Raw Aluminum 
-08. Jjw Cloudline in Red
-09. Singa Unikorn in Red
+ 
+01. DriftMechanic Forever 65 in Navy  
+02. CableCar Design Cypher in Lilac 
+03. Zekk.Works Ogre in Red
+04. Nazare 1-60 W1 in White
+05. Geonworks F2-84 in Black
+06. Geonworks F1-8X 722 in Raw Aluminum 
+07. Jjw Cloudline in Red
+08. Singa Unikorn in Red
+09. -
 10. -
 
 ### Upcoming Keyboards
@@ -63,6 +63,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 20. Bisoromi RS60 in Red
 21. Fropsie Foundation FE in Very Peri
 22. Ai03 Vega in Navy
+23. Hands Engineering Dalco 959 Mini in Silver
 
 ### Contact me
 
