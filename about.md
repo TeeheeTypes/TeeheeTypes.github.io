@@ -16,13 +16,13 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 ### Current Keyboards
  
 01. DriftMechanic Forever 65 in Navy  
-02. CableCar Design Cypher in Lilac 
-03. Zekk.Works Ogre in Red
-04. Nazare 1-60 W1 in White
-05. Geonworks F2-84 in Black
-06. Geonworks F1-8X 722 in Raw Aluminum 
-07. Jjw Cloudline in Red
-08. Singa Unikorn in Red
+02. Zekk.Works Ogre in Red
+03. Nazare 1-60 W1 in White
+04. Geonworks F2-84 in Black
+05. Geonworks F1-8X 722 in Raw Aluminum
+06. Jjw Cloudline in Red 
+07. Singa Unikorn in Red
+08. -
 09. -
 10. -
 
@@ -64,6 +64,7 @@ Here is a list of the keyboards I own or had owned and inclusive of the upcoming
 21. Fropsie Foundation FE in Very Peri
 22. Ai03 Vega in Navy
 23. Hands Engineering Dalco 959 Mini in Silver
+24. CableCar Design Cypher in Lilac 
 
 ### Contact me
 
